@@ -1,0 +1,15 @@
+C:\TI Academy\Aulas C_Sharp\Ideias\GestorDeEstoqueCMD\GestorDeEstoqueCMD\bin\Debug\GestorDeEstoqueCMD.exe.config
+C:\TI Academy\Aulas C_Sharp\Ideias\GestorDeEstoqueCMD\GestorDeEstoqueCMD\bin\Debug\GestorDeEstoqueCMD.exe
+C:\TI Academy\Aulas C_Sharp\Ideias\GestorDeEstoqueCMD\GestorDeEstoqueCMD\bin\Debug\GestorDeEstoqueCMD.pdb
+C:\TI Academy\Aulas C_Sharp\Ideias\GestorDeEstoqueCMD\GestorDeEstoqueCMD\obj\Debug\GestorDeEstoqueCMD.csprojAssemblyReference.cache
+C:\TI Academy\Aulas C_Sharp\Ideias\GestorDeEstoqueCMD\GestorDeEstoqueCMD\obj\Debug\GestorDeEstoqueCMD.csproj.CoreCompileInputs.cache
+C:\TI Academy\Aulas C_Sharp\Ideias\GestorDeEstoqueCMD\GestorDeEstoqueCMD\obj\Debug\GestorDeEstoqueCMD.exe
+C:\TI Academy\Aulas C_Sharp\Ideias\GestorDeEstoqueCMD\GestorDeEstoqueCMD\obj\Debug\GestorDeEstoqueCMD.pdb
+D:\Studying\C# para iniciantes 2022 - Crie 4 projetos\Projetos\GestorDeEstoqueCMD\GestorDeEstoqueCMD\bin\Debug\GestorDeEstoqueCMD.exe.config
+D:\Studying\C# para iniciantes 2022 - Crie 4 projetos\Projetos\GestorDeEstoqueCMD\GestorDeEstoqueCMD\bin\Debug\GestorDeEstoqueCMD.exe
+D:\Studying\C# para iniciantes 2022 - Crie 4 projetos\Projetos\GestorDeEstoqueCMD\GestorDeEstoqueCMD\bin\Debug\GestorDeEstoqueCMD.pdb
+D:\Studying\C# para iniciantes 2022 - Crie 4 projetos\Projetos\GestorDeEstoqueCMD\GestorDeEstoqueCMD\obj\Debug\GestorDeEstoqueCMD.csproj.AssemblyReference.cache
+D:\Studying\C# para iniciantes 2022 - Crie 4 projetos\Projetos\GestorDeEstoqueCMD\GestorDeEstoqueCMD\obj\Debug\GestorDeEstoqueCMD.csproj.SuggestedBindingRedirects.cache
+D:\Studying\C# para iniciantes 2022 - Crie 4 projetos\Projetos\GestorDeEstoqueCMD\GestorDeEstoqueCMD\obj\Debug\GestorDeEstoqueCMD.csproj.CoreCompileInputs.cache
+D:\Studying\C# para iniciantes 2022 - Crie 4 projetos\Projetos\GestorDeEstoqueCMD\GestorDeEstoqueCMD\obj\Debug\GestorDeEstoqueCMD.exe
+D:\Studying\C# para iniciantes 2022 - Crie 4 projetos\Projetos\GestorDeEstoqueCMD\GestorDeEstoqueCMD\obj\Debug\GestorDeEstoqueCMD.pdb
